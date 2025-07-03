@@ -17,7 +17,7 @@ export default function Header() {
         <nav className="hidden md:flex space-x-6">
           <Link href="/">Home</Link>
           <Link href="/tender">Tenders</Link>
-          <Link href="/companies">Companies</Link>
+          <Link href="/dashboard">Dashboard</Link>
           <Link href="/Login">Login</Link>
           <Link href="/Register">Register</Link>
         </nav>
